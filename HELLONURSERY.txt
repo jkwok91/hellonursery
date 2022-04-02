@@ -37,8 +37,10 @@ INVENTORY
     - 1 in 1gal
 
   Rooted Seedlings
+  - Asclepias fasciculatum, from Larner, started 3-18-2022
+    - 1 in Ceanothus pot
   - Achillea millefolium, from Larner, started ages ago
-    - 2 in rose pots
+    - 2 in Ceanothus pot being friends
   - Tiny Tim Tomato, from SDSC, started 3-10-2022
     - 3 in rose pot
     - 1 in other rose pot
@@ -47,17 +49,18 @@ INVENTORY
     - 1 in rose pot
   - Sweet Pea, from SDSC, started 2-28-2022
     - 1 in halfgal
-    - 1 in wtf box
+  - Sweet Pea, from SDSC, started 3-18-2022
+    - 1 in Vegetable 5gal
   - Helleborus sp, from Marin Art and Garden Center, started ages ago and i don't even remmeber
     - 2 in rose pots
   - Easter Egg Radish, from Botanical Interests, started 3-12-2022
-    - 3 per rose pot, 2 rose pots
+    - 6 in Vegetable 5gal
   - GRS Tomato, from Baker Creek Seeds, started 2-5-2022
     - 3 in original 4" pot
     - 6 in rose pots
     - 1 in 4" pot
   - Red Pride Tomato, from Botanical Interests, started 2-5-2022
-    - 4 in original 4" pot
+    - 4 in 4" pots
     - 1 in rose pot
   - White Queen Tomato, from Baker Creek Seeds, started 2-5-2022
     - 3 in original 4" pot
@@ -66,11 +69,12 @@ INVENTORY
     - 3 in original circle pot
     - 1 in circle pot
     - 2 in 4" pots
-    - 8 in rose pots
+    - 4 in rose pots
+    - 4 in Vegetable 5gal
   - Aquilegia formosa, from Tilden Botanical seeds from Nate, started? i do not know
     - 1 in 1gal
-    - 1 in rose pots
-    - 2 in 4" pots
+    - 2 in rose pots
+    - 1 in 4" pot
   - Lavandula 'Munstead', from Southern Exposure Seed Exchange, started? idk
     - 2 in rose pots
     - 1 in 4" pot
@@ -82,16 +86,10 @@ INVENTORY
     - 1 in rose pot
 
   Cuttings
-  - Salvia sp?, from exploring in Fremont, started 3-22-2022
-    - 2 in original 4" pot
   - Artemisia californica, from Land's End trail, started 3-12-2022
     - 2 in original 4" pot
   - Erigonum sp?, from San Bruno Mountain upper parking lot, started 3-11-2022
     - 4+ in original 4" pot (honestly i do not expect any of these to survive)
-  - Salvia apiana, from Alameda Seaplane Terminal, started 2-22-2022
-    - 1 in original 4" pot
-  - Salvia leucophylla, from Ploughshares plant that is now at Xo's house, started 1-29-2022
-    - 3 in original 4" pot
   - Salvia leucophylla, from Nate, started 2-5-2022
     - 1 in original 4" pot
   - Salvia sp?, from Nate, started 3-21-2022
@@ -112,8 +110,7 @@ INVENTORY
     - 6 in 6-pack
   - Borage, from Botanical Interests, started 3-18-2022
     - 4 in 4" pot
-  - Asclepias fasciculatum, from Larner, started 3-18-2022
-    - 4 in wtf box
+  - Solidago, from Larner, started 4-2-2022
 
   Bare Root Stuff - all from Native Foods Nursery in Oregon
   - 5 Ceanothus velutinus
@@ -123,18 +120,21 @@ INVENTORY
   - 3 Camassia leichtlinii
 
   Materials
-  Sloat Potting Mix
 
 ---
-31 March 2022
+2 April 2022
+
+SOWING
+  Scattered some Solidago seeds from Larner into the pot that has Borage seeds that I think are probably dead.
 
 TRANSPLANTING
-  Moved Wedding Cake to the 2gal I picked up at South last week. Its roots were coming out of the halfgal I got it in, so it was a good time to transplant.
-  The pea in the rose pot also was ready to be transplanted (nice roots coming out the bottom), so it was moved into the halfgal.
-  Also moved Mystery thing to the 1gal that formerly housed one of the C. velutinus. Sadly that was just not breaking dormancy and its roots were not white at all so now it is chopped up and sent to decompose.
+  Transplanted each of the Red Pride tomatoes to their own 4".
+  Transplanted the radishes and 4 russian kales and the pea formerly in wtfbox into a large 5gal. Now known as the Vegetable 5gal. I wanted to know if they could help each other out and grow nicely. Plus I was getting nervous about the radishes all growing very closely together in these tiny rose pots. The Vegetable 5gal is now the final home for all of these things.
+  Now I am worried I have stunted the pea's growth. It was growing like mad. Currently it is a little bit slumped over from transplanting.
 
 MOVING
-  Moved one of the Sidalcea downstairs because it's doing well on its own (honestly I should've moved that one into the 1gal but I am stupid). Also moved the Great Camas that was on the balcony to the crate, as well as one of the C.v that has a vigorous Eriophyllum growing in it. And the Mystery thing, which is now in 1gal. Also sent to live downstairs.
+  Moved one of the Ceanothus velutinus which has shown no sign of breaking dormancy, to downstairs. Moved most of my indoor stock to the outside. Succulents have been put into the master succulent pot. I find that is the best place to grow them.
 
 OTHER
-  Some stuff is starting to appear from seedlings, but I am so afraid that I will not note it here. Erigeron, Phacelia, maybe an Asclepias???? Very exciting but a very delicate time for them.
+  Seedling update: Phacelia is still alive. Erigeron are alive. No action in the Eriogonum or Salvia apiana pots.
+  The GRS tomatoes continue to look kinda grimy. Still has leaf tip necrosis. No new growth. I am concerned.
