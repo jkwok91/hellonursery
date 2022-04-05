@@ -1,5 +1,4 @@
 plants log
-should've started this a while back but whoops no time like the present
 
 INVENTORY
 
@@ -15,7 +14,7 @@ INVENTORY
   - Salvia leucophylla, from Nate, started 2-5-2022
     - 2 in original 4" pot
     - 8 in 4" pots
-    - 3 in rose pots
+    - 4 in rose pots
     - 1 in Ceanothus pot, being friends
   - Salvia sp?, from Nate, started 2-5-2022
     - 1 in 4" pot
@@ -43,7 +42,7 @@ INVENTORY
     - 2 in Ceanothus pot being friends
   - Tiny Tim Tomato, from SDSC, started 3-10-2022
     - 3 in rose pot
-    - 1 in other rose pot
+    - 1 in Vegetable 5gal
   - Vate's Kale, from SDSC, started 3-10-2022
     - 1 in the other kale pot
     - 1 in rose pot
@@ -94,8 +93,6 @@ INVENTORY
     - 2 in original 4" pot
   - Erigonum sp?, from San Bruno Mountain upper parking lot, started 3-11-2022
     - 4+ in original 4" pot (honestly i do not expect any of these to survive)
-  - Salvia leucophylla, from Nate, started 2-5-2022
-    - 1 in original 4" pot
   - Salvia sp?, from Nate, started 3-21-2022
     - 1 in original 4" pot
   - Eriogonum nudum, from Anza Trail, started 1-31-2022
@@ -128,5 +125,12 @@ INVENTORY
 ---
 3 April 2022
 
+TRANSPLANTING
+  Moved the tiny tim tomato to the vegetable master pot, which freed up some soil. I put the last Salvia leucophylla into that rose pot.
+
+MOVING
+  Brought the rose-pot Eriogonum nudum and Aquilegias down to the crate.
+
 OTHER
-  Two new cuttings. One mystery salvia and one variegated pelargonium. Collected from Treasure Island yesterday but I doubt the survival.
+  Two of the camas are about to die. SIghhhhhhH!H!H maybe the bulb will survive into next season idk. They're in the Ceanothus sanguineus pot.
+  C. sanguineus seem to be leafing out. C. velutinus not so much. Looks very bad.
