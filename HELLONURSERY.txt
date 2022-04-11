@@ -3,8 +3,6 @@ plants log
 INVENTORY
 
   Started elsewhere
-  - Cannabis Wedding Cake, from Thomas, adopted 2-25-2022
-    - 1 in 2gal
   - Phyla nodiflora, from Watershed Nursery, adopted a long time ago
     - 1 in circle pot
 
@@ -41,13 +39,12 @@ INVENTORY
   - Achillea millefolium, from Larner, started ages ago
     - 2 in Ceanothus pot being friends
   - Tiny Tim Tomato, from SDSC, started 3-10-2022
-    - 3 in rose pot
     - 1 in Vegetable 5gal
   - Vate's Kale, from SDSC, started 3-10-2022
-    - 1 in the other kale pot
-    - 1 in rose pot
+    - 1 in Vegetable 2gal
+    - 1 in rose pot --MOVED TO SR
   - Sweet Pea, from SDSC, started 2-28-2022
-    - 1 in halfgal
+    - 1 in halfgal --MOVED TO SR
   - Sweet Pea, from SDSC, started 3-18-2022
     - 1 in Vegetable 5gal
   - Helleborus sp, from Marin Art and Garden Center, started ages ago and i don't even remmeber
@@ -55,20 +52,24 @@ INVENTORY
   - Easter Egg Radish, from Botanical Interests, started 3-12-2022
     - 6 in Vegetable 5gal
   - GRS Tomato, from Baker Creek Seeds, started 2-5-2022
-    - 3 in original 4" pot
-    - 6 in rose pots
+    - 3 in original 4" pot --MOVED TO SR
+    - 3 in rose pots --MOVED TO SR
+    - 2 in rose pots
+    - 1 in terracotta pot
     - 1 in 4" pot
   - Red Pride Tomato, from Botanical Interests, started 2-5-2022
-    - 4 in 4" pots
-    - 1 in rose pot
+    - 2 in 4" pots --MOVED TO SR
+    - 1 in rose pot --MOVED TO SR
+    - 1 in 4" pots
+    - 1 in Vegetable 2gal
   - White Queen Tomato, from Baker Creek Seeds, started 2-5-2022
     - 3 in original 4" pot
-    - 2 in rose pots
+    - 2 in rose pots --MOVED TO SR
   - Russian Kale, from Baker Creek Seeds, started 2-9-2022
-    - 3 in original circle pot
+    - 3 in original circle pot --MOVED TO SR
     - 1 in circle pot
     - 2 in 4" pots
-    - 4 in rose pots
+    - 4 in rose pots --MOVED TO SR - I also ate one of them.
     - 4 in Vegetable 5gal
   - Aquilegia formosa, from Tilden Botanical seeds from Nate, started? i do not know
     - 1 in 1gal
@@ -97,10 +98,10 @@ INVENTORY
     - 1 in original 4" pot
   - Eriogonum nudum, from Anza Trail, started 1-31-2022
     - 1 in original 4" pot
-  - Eriogonum giganteum, from Ulloa School, started 2-1-2022
-    - 1 in rose pot
 
   Seeds
+  - Sweet Pea, from SDSC, started 4-10-2022
+    - 2 in Vegetable 2gal
   - Eriogonum giganteum, from Larner, started 3-18-2022
     - 6 in 6-pack
   - Salvia apiana, from Larner, started 3-18-2022
@@ -114,7 +115,7 @@ INVENTORY
   - Solidago, from Larner, started 4-2-2022
 
   Bare Root Stuff - all from Native Foods Nursery in Oregon
-  - 5 Ceanothus velutinus
+  - 4 Ceanothus velutinus
   - 3 Ceanothus sanguineus
   - 3 Sidalcea virgata
   - 3 Camassia quamash
@@ -123,8 +124,18 @@ INVENTORY
   Materials
 
 ---
-7 April 2022
+10 April 2022
 
 MOVING
-  Went downstairs to check on the stuff (I watered two days ago). Today's gonna be hot so I wanted to make sure I hit everything with adequate water. The checkerbloom was droopy so I brought it back upstairs to keep an eye on it.
-  Everything else seems fine I guess? I feel like everything could be upgraded to a bigger pot. I don't have soil for it though. Also don't really have space for it.
+  This past Saturday I brought a bunch of the vegetables to Santa Rosa and planted them in the backyard veg garden.
+
+TRANSPLANTING
+  I sadly had to kill the Wedding Cake plant as it was a male and I had no use for it. Instead I used that pot to grow out a Red Pride tomato and a kale.
+
+SOWING
+  I also put two sweet pea seeds in that pot.
+
+OTHER
+  The sweet pea in the Vegetable master pot looks good. The radishes look kinda shitty, and the kales look the same. I wonder what they want. Hm.
+  I ate one of the kale seedlings in Santa Rosa and it was good not great.
+  Anyway it is gonna rain tomorrow and later this week. Hopefully that helps everyone grow.
