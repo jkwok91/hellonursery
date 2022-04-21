@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Goodbye Lawn</title>
+    <meta name="description" content="Goodbye Lawn LLC">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      window.onload = generateFeaturedPhoto;
+      var imgNum = 6;
+      function generateFeaturedPhoto() {
+        var num = Math.ceil(Math.random() * imgNum);
+        document.getElementById("featuredPhoto").src = "./img" + num + ".jpg";
+      }
+    </script>
+    <link rel="stylesheet" href="./styles.css"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <div id="wrapper">
+      <div class="header">
+        <div id="co-name">GOODBYE LAWN</div>
+        <div id="tagline">hello life</div>
+
+        <div class="desc">
+          <p>Landscaping company based in the Bay Area</p>
+          <p>focused on replacing lawn with thriving plant communities</p>
+        </div>
+      </div>
+      <div class="content">
+        <div class="section">Featured Photo</div>
+        <div class="desc">
+          <p><img id="featuredPhoto" src="./project1.jpg"></p>
+        </div>
+
+        <div class="section">Contact Us</div>
+        <div class="desc">
+          <p>email: natelandscaping@gmail.com</p>
+          <p>phone: 917 274 7416</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

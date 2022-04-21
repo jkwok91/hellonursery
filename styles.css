@@ -1,0 +1,31 @@
+#wrapper {
+  width: 75%;
+  margin: 0 auto;
+}
+.header {
+  padding: 2em 0;
+}
+#co-name {
+  font-size: 2em;
+  letter-spacing: .5em;
+}
+#tagline {
+  font-size: 1.5em;
+  letter-spacing: .25em;
+}
+.section {
+  font-size: 1.25em;
+}
+.desc {
+  padding: 1em 0;
+  font-style: italic;
+}
+.desc p {
+  margin: 0;
+}
+
+@media (max-width: 959px) {
+  img {
+    max-width: 100%;
+  }
+}
