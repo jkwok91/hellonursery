@@ -5,11 +5,26 @@
     <meta name="description" content="Goodbye Lawn LLC">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script>
-      window.onload = generateFeaturedPhoto;
-      var imgNum = 6;
+      var maxImg = 6;
+      var currentNum = Math.floor(Math.random() * maxImg);
+      window.onload = function () {
+        console.log("onload current"+currentNum);
+        generateFeaturedPhoto();
+        document.getElementById("featuredPhoto").onclick = generateNextPhoto;
+      }
+
+      function getNextNum() {
+        console.log("getNextNum - current"+currentNum);
+        return ((currentNum + 1) % maxImg);
+      }
+      function generateNextPhoto() {
+        currentNum = getNextNum();
+        console.log("genNextPho - current"+currentNum);
+        generateFeaturedPhoto();
+      }
+
       function generateFeaturedPhoto() {
-        var num = Math.ceil(Math.random() * imgNum);
-        document.getElementById("featuredPhoto").src = "./img" + num + ".jpg";
+        document.getElementById("featuredPhoto").src = "./img" + currentNum + ".jpg";
       }
     </script>
     <link rel="stylesheet" href="./styles.css"/>
