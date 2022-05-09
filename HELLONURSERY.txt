@@ -9,50 +9,54 @@ INVENTORY
   Rooted Cuttings
   - Artemisia californica, from Land's End trail, started 3-12-2022
     - 1 in 4" pot
+    - 1 in circle pot
   - Mystery thing, from Alameda Seaplane Terminal, started 2-22-2022
     - 1 in 1gal
   - Salvia leucophylla, from Nate, started 2-5-2022
-    - 2 in 1gals
+    - 0 in 1gals --all moved to Tromb
     - 1 in short halfgal thing
     - 5 in 4" pots
     - 1 in rose pots
-    - 1 in Ceanothus pot, being friends
+    - 0 in Ceanothus pot, being friends --all moved to Tromb
   - Salvia sp?, from Nate, started 2-5-2022
     - 2 in 4" pot
-    - 1 in 1gal
+    - 0 in 1gal --all moved to Tromb
     - 1 in rose pots
   - Ribes sp?, from Ulloa School, started 2-1-2022
-    - 1 in circle pot
+    - 1 in halfgal --upgraded
   - Eriophyllum sp?, from Anza Trail, started 1-31-2022
-    - 3 in 1gal
+    - 2 in 1gal --1 moved to Tromb
   - Eriogonum fasciculatum, from Wawona HQ, started idk super long ago
     - 1 in rose pot
     - 1 in 1gal with eriophyllum...recovering
 
   Rooted Seedlings
+  - Lupinus nanus, from Annadel, started 5-2-2022
+    - 1 in 6-pack
   - Asclepias fasciculatum, from Larner, started 3-18-2022
-    - 1 in Ceanothus pot
+    - 1 in 6-pack (moved)
     - 2 in Vegetable 5gal
   - Achillea millefolium, from Larner, started ages ago
-    - 2 in Ceanothus pot being friends
+    - 0 in Ceanothus pot being friends --all moved to Tromb
   - Tiny Tim Tomato, from SDSC, started 3-10-2022
     - 1 in Vegetable 5gal
   - Vate's Kale, from SDSC, started 3-10-2022
     - 1 in Vegetable 2gal
   - Sweet Pea, from SDSC, started 3-18-2022
     - 1 in Vegetable 5gal
-    - 1 in Vegetable 2gal
+    - 2 in Vegetable 2gal
   - Helleborus sp, from Marin Art and Garden Center, started ages ago and i don't even remmeber
     - 2 in rose pots
   - Easter Egg Radish, from Botanical Interests, started 3-12-2022
-    - 6 in Vegetable 5gal
+    - 5 in Vegetable 5gal --I ate one
   - GRS Tomato, from Baker Creek Seeds, started 2-5-2022
     - 1 in rose pots
-    - 1 in terracotta pot
+    - 1 in 1gal
   - Red Pride Tomato, from Botanical Interests, started 2-5-2022
     - 1 in Vegetable 2gal
   - White Queen Tomato, from Baker Creek Seeds, started 2-5-2022
-    - 3 in original 4" pot
+    - 2 in original 4" pot
+    - 1 in 1gal --upgraded
   - Russian Kale, from Baker Creek Seeds, started 2-9-2022
     - 1 in circle pot
     - 2 in 4" pots
@@ -61,54 +65,60 @@ INVENTORY
     - 2 in rose pots
     - 1 in 4" pot
   - Lavandula 'Munstead', from Southern Exposure Seed Exchange, started? idk
-    - 2 in rose pots
+    - 1 in rose pots
+    - 1 in terracotta pot
     - 1 in 4" pot
   - Asteraceae? from Tilden (I collected them), started 2-5-2022
     - 1 in rose pots
-    - 1 in big Ceanothus pot, being friends
+    - 0 in big Ceanothus pot, being friends --all moved to Tromb
   - Grindelia sp, from San Bruno Mountain, started idk
     - 1 in rose pot
     - 1 in 4" pot
 
   Cuttings
+  - Romneya coulteri, from Landscapes Unlimited, started 5-7-2022
+    - 2 in 4" pot
+  - Erigeron glaucus 'Cultivar', from Landscapes Unlimited, started 5-7-2022
+    - 3 in 4" pot
+  - Epilobium canum 'Cultivar', from Landscapes Unlimited, started 5-7-2022
+    - 2 in 4" pot
+  - Eriogonum fasciculatum, from Landscapes Unlimited, started 5-7-2022
+    - 6 in 4" pot
+  - Salvia apiana, from Landscapes Unlimited, started 5-7-2022
+    - 1 in 4" pot
   - Salvia sp?, from Treasure Island Learning Center, started 4-3-2022
     - 1 in the 4" cutting pot
   - Pelargonium sp variegated, from Treasure Island Learning Center, started 4-3-2022
     - 1 in Lavandula's 4" pot
-  - Artemisia californica, from Land's End trail, started 3-12-2022
-    - 1 in original 4" pot
-  - Erigonum sp?, from San Bruno Mountain upper parking lot, started 3-11-2022
-    - 4+ in original 4" pot (honestly i do not expect any of these to survive)
   - Salvia sp?, from Nate, started 3-21-2022
     - 1 in original 4" pot
   - Eriogonum nudum, from Anza Trail, started 1-31-2022
     - 1 in original 4" pot
 
   Seeds
-  - Eriogonum giganteum, from Larner, started 3-18-2022
-    - 6 in 6-pack
-  - Salvia apiana, from Larner, started 3-18-2022
-    - 6 in 6-pack
-  - Phacelia californica, from Larner, started 3-18-2022
-    - 6 in 6-pack
-  - Erigeron glaucus, from Larner, started 3-18-2022
-    - 6 in 6-pack
-  - Solidago, from Larner, started 4-2-2022
+  - Lupinus nanus, from Annadel, started 5-2-2022
+    - 1 in 6-pack
 
   Bare Root Stuff - all from Native Foods Nursery in Oregon
-  - 1 Ceanothus velutinus
-  - 2 Ceanothus sanguineus
-  - 3 Sidalcea virgata
+  - 1 Ceanothus sanguineus --1 moved to Tromb
+  - 0 Sidalcea virgata --all moved to Tromb
   - 3 Camassia quamash
-  - 1 Camassia leichtlinii
+  - 0 Camassia leichtlinii --all moved to Tromb
 
   Materials
+  Nursery potting mix!
 
 ---
-19 April 2022
+8 May 2022
+
+TRANSPLANTING
+  Upgraded the tomatoes to bigger pots. It is getting warmer outside and they are growing nicely. Also finally upgraded the Ribes to a halfgallon thing.
+
+SOWING
+  Found some lupine seeds at Annadel that were ready. One has just emerged after less than a week of sowing. Also found some hellebore seeds at Mendo Bot, but I scattered them randomly and I don't know if they are actually gonna pop. Also they might need a cold snap. Whatever. They're in the soil somewhere.
 
 MOVING
-  Many plants have been moved to Xo's house, where they will most likely die. I have no faith in Xo's ability to find and monitor these plants.
+  Many plants have been moved to Trombetta! Hurray. They will survive because they are watered by automatic irrigation.
 
 OTHER
-  Seeds have not been doing super well. I will modify my starting mix.
+  Seeds have died. Starting over.
