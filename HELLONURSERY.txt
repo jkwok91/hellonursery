@@ -13,19 +13,16 @@ INVENTORY
   - Mystery thing, from Alameda Seaplane Terminal, started 2-22-2022
     - 1 in 1gal
   - Salvia leucophylla, from Nate, started 2-5-2022
-    - 0 in 1gals --all moved to Tromb
     - 1 in short halfgal thing
     - 5 in 4" pots
     - 1 in rose pots
-    - 0 in Ceanothus pot, being friends --all moved to Tromb
   - Salvia sp?, from Nate, started 2-5-2022
     - 2 in 4" pot
-    - 0 in 1gal --all moved to Tromb
     - 1 in rose pots
   - Ribes sp?, from Ulloa School, started 2-1-2022
-    - 1 in halfgal --upgraded
+    - 1 in halfgal
   - Eriophyllum sp?, from Anza Trail, started 1-31-2022
-    - 2 in 1gal --1 moved to Tromb
+    - 2 in 1gal
   - Eriogonum fasciculatum, from Wawona HQ, started idk super long ago
     - 1 in rose pot
     - 1 in 1gal with eriophyllum...recovering
@@ -34,10 +31,8 @@ INVENTORY
   - Lupinus nanus, from Annadel, started 5-2-2022
     - 1 in 6-pack
   - Asclepias fasciculatum, from Larner, started 3-18-2022
-    - 1 in 6-pack (moved)
+    - 1 in 6-pack
     - 2 in Vegetable 5gal
-  - Achillea millefolium, from Larner, started ages ago
-    - 0 in Ceanothus pot being friends --all moved to Tromb
   - Tiny Tim Tomato, from SDSC, started 3-10-2022
     - 1 in Vegetable 5gal
   - Vate's Kale, from SDSC, started 3-10-2022
@@ -48,7 +43,7 @@ INVENTORY
   - Helleborus sp, from Marin Art and Garden Center, started ages ago and i don't even remmeber
     - 2 in rose pots
   - Easter Egg Radish, from Botanical Interests, started 3-12-2022
-    - 5 in Vegetable 5gal --I ate one
+    - 5 in Vegetable 5gal
   - GRS Tomato, from Baker Creek Seeds, started 2-5-2022
     - 1 in rose pots
     - 1 in 1gal
@@ -56,11 +51,11 @@ INVENTORY
     - 1 in Vegetable 2gal
   - White Queen Tomato, from Baker Creek Seeds, started 2-5-2022
     - 2 in original 4" pot
-    - 1 in 1gal --upgraded
+    - 1 in 1gal
   - Russian Kale, from Baker Creek Seeds, started 2-9-2022
     - 1 in circle pot
     - 2 in 4" pots
-    - 4 in Vegetable 5gal
+    - 2 in Vegetable 5gal --i ate 2
   - Aquilegia formosa, from Tilden Botanical seeds from Nate, started? i do not know
     - 2 in rose pots
     - 1 in 4" pot
@@ -70,7 +65,6 @@ INVENTORY
     - 1 in 4" pot
   - Asteraceae? from Tilden (I collected them), started 2-5-2022
     - 1 in rose pots
-    - 0 in big Ceanothus pot, being friends --all moved to Tromb
   - Grindelia sp, from San Bruno Mountain, started idk
     - 1 in rose pot
     - 1 in 4" pot
@@ -96,29 +90,29 @@ INVENTORY
     - 1 in original 4" pot
 
   Seeds
+  - Vate's Kale, from SDSC, started 5-10-2022
+    - 2 in a tiny pot i found at work
   - Lupinus nanus, from Annadel, started 5-2-2022
     - 1 in 6-pack
 
   Bare Root Stuff - all from Native Foods Nursery in Oregon
-  - 1 Ceanothus sanguineus --1 moved to Tromb
-  - 0 Sidalcea virgata --all moved to Tromb
+  - 1 Ceanothus sanguineus
   - 3 Camassia quamash
-  - 0 Camassia leichtlinii --all moved to Tromb
 
   Materials
   Nursery potting mix!
 
 ---
-8 May 2022
+10 May 2022
 
 TRANSPLANTING
-  Upgraded the tomatoes to bigger pots. It is getting warmer outside and they are growing nicely. Also finally upgraded the Ribes to a halfgallon thing.
+  Really need to upgrade some of those rosepot salvias downstairs. Too tired to do it today; will do tomorrow.
 
 SOWING
-  Found some lupine seeds at Annadel that were ready. One has just emerged after less than a week of sowing. Also found some hellebore seeds at Mendo Bot, but I scattered them randomly and I don't know if they are actually gonna pop. Also they might need a cold snap. Whatever. They're in the soil somewhere.
+  I harvested two leaves off the Vate's Kale today and it was great. Sowed 1 more.
 
 MOVING
-  Many plants have been moved to Trombetta! Hurray. They will survive because they are watered by automatic irrigation.
+  Moved a kale and the GRS tomato inside. It gets nice and bright (and warm) in the kitchen in the summer so hopefully that helps.
 
 OTHER
-  Seeds have died. Starting over.
+  APHIDS!!!! are present in the vegetable 5gal!!!! This is because I put the plants too close together. I have since thinned them out, by eating 2 russian kale. Russian kale is good but not good enough to keep so many around anyway. I need to inspect the big pea for aphids so it doesn't get out of hand. The big pea is very big now. There is nothing for it to climb on. I should ask Nate to bring me one of those unused tomato wire things from Tromb.
